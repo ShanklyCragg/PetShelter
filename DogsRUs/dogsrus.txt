@@ -1,0 +1,32 @@
+animalsRus
+20
+3
+dog
+14
+Oliver
+1
+Shankly
+8888
+true
+9
+Chicken
+true
+cat
+2
+Dinky
+1
+James Bond
+007007
+true
+1
+Gold fingers
+dog
+7
+IHATEBONES
+1
+HATESBONES
+1994
+false
+2
+NOTBONES
+true
